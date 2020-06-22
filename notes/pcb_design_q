@@ -1,0 +1,16 @@
+1. For the ATMEGA32u4, what are VCC, UVCC, AVCC, and how do I know they're
+connected to the 5v+
+
+2. what is this crystal, and how do you know to wire the non-gnd pins to it,
+besides just trusting ai03?
+
+3. should i know how a decoupling capacitor works
+
+m: pick the component up and move it
+g: drag the component up and move it while keeping wires attached to it
+c: copy the component
+e: edit the component
+r: rotate the component
+y: mirror the component
+del: delete the component
+esc: abort!
